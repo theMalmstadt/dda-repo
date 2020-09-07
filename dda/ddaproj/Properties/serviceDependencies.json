@@ -3,9 +3,6 @@
     "mssql1": {
       "type": "mssql",
       "connectionId": "DDADB_Azure_Dev"
-    },
-    "secrets1": {
-      "type": "secrets"
     }
   }
 }
